@@ -1,0 +1,19 @@
+
+
+body{
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+button{
+    background-color: rosybrown;
+    
+}
+
+h1{
+    background-color: beige;
+    width: 150px;
+    display: inline-block;
+}
+
